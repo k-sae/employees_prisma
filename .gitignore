@@ -1,0 +1,7 @@
+node_modules/
+.env
+.idea/
+uploads/
+.vscode/
+prisma/client1
+prisma/nclient
